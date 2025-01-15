@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSUIElement</key>
+	<string>1</string>
+	<key>LSBackgroundOnly</key>
+	<string>TRUE</string>
+	<key>Application is agent (UIElement)</key>
+	<true/>
+	<key>Application is an Accessory</key>
+	<true/>
+</dict>
+</plist>
